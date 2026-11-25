@@ -1,6 +1,6 @@
 # Exercism Python Solutions
 
-My solutions to the [Python track on Exercism](https://exercism.org/tracks/python), kept here as a record of my practice in core Python.
+My solutions to the [Python track on Exercism]([https://exercism.org/tracks/python](https://exercism.org/profiles/m000n-ux)), kept here as a record of my practice in core Python.
 
 ## Why this repo
 
